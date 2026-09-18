@@ -27,7 +27,7 @@
 
 
 
-#### [Appsolute](https://github.com/tyt9/Appsolute) — 그룹웨어 전자결재 <sub>팀 프로젝트</sub>
+#### [Appsolute](https://github.com/tyt9/Appsolute) — 전자결재 <sub>팀 프로젝트</sub>
 - 전자결재 모듈 담당
 - 양식마다 항목이 다른 문서를 저장하는 양식–항목–값 테이블 설계
 - 결재선 순번 기반 순차 결재, 승인·반려에 따른 문서 상태 처리
