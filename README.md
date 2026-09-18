@@ -20,7 +20,7 @@
 
 #### [IcecreamUpgraded](https://github.com/tyt9/IcecreamUpgraded) - 아이스크림 주문 시스템 (재구현) <sub>개인 프로젝트</sub>
 - 첫 프로젝트를 Spring Boot + MyBatis로 재구현
-- 문자열 직접 파싱 → JSON 객체 바인딩
+- 문자열 직접 파싱 → JSON 객체 
 - 수량 변경·항목 삭제 시 총액 실시간 계산
 
 `Java` `Spring Boot 2.7` `MyBatis` `Thymeleaf` `jQuery` `MySQL`
