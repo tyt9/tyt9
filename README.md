@@ -7,16 +7,16 @@
 
 `Java` `Spring Boot 2.7` `JdbcTemplate` `JSP` `jQuery` `MySQL`
 
----
+
 
 #### [Icecream](https://github.com/tyt9/Icecream) — 아이스크림 주문 시스템 <small>개인 프로젝트</small>
-- 자바 학습 2개월 차 첫 웹 프로젝트
+- 처음 만들었던 프로젝트
 - Spring Boot 없이 web.xml·설정 클래스로 Spring MVC 직접 구성
 - 주문–주문상세–토핑상세 2단계 1:N 테이블 설계, 로그인 필터, 소프트 삭제
 
 `Java` `Spring5` `JdbcTemplate` `JSP` `jQuery` `MySQL` `Maven`
 
----
+
 
 #### [IcecreamUpgraded](https://github.com/tyt9/IcecreamUpgraded) — 아이스크림 주문 시스템 (재구현) <small>개인 프로젝트</small>
 - 첫 프로젝트를 Spring Boot + MyBatis로 재구현
@@ -25,7 +25,7 @@
 
 `Java` `Spring Boot 2.7` `MyBatis` `Thymeleaf` `jQuery` `MySQL`
 
----
+
 
 #### [Appsolute](https://github.com/tyt9/Appsolute) — 그룹웨어 전자결재 <small>팀 프로젝트</small>
 - 전자결재 모듈 담당
